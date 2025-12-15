@@ -1,2 +1,2 @@
 # MyOnlineMeal
-Best Online Food Delivery Service in India
+Online Food Delivery Website
